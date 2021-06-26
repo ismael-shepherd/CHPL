@@ -9,7 +9,7 @@ $title = "Hassan CHPL - Chauffage & Sanitaire";
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="html 5 template, cooling, heating, electricity services">
 	<meta name="author" content="tonytemplates.com">
-	<link rel="icon" href="images/favicon_new.png">
+	<link rel="icon" href="images/favicon.ico">
 	<title><?= $title ?? "Hassan CHPL - Chauffage & Sanitaire" ?></title>
 	<!-- Bootstrap core CSS -->
 	<link href="css/plugins/bootstrap.min.css" rel="stylesheet">
@@ -98,8 +98,6 @@ $title = "Hassan CHPL - Chauffage & Sanitaire";
 						</div><!--emg-sec end-->
 						<ul class="social_links">
 							<li><a href="#" title=""><i class="fa fa-facebook"></i></a></li>
-							<li><a href="#" title=""><i class="fa fa-twitter"></i></a></li>
-							<li><a href="#" title=""><i class="fa fa-instagram"></i></a></li>
 						</ul><!--social_links end-->
 					</div>
 					<a href="#" title="" class="menu_btn">
@@ -731,7 +729,7 @@ $title = "Hassan CHPL - Chauffage & Sanitaire";
 							<h2><span>La qualité</span> d'un système de chauffage, climatisation ou sanitaire</h2>
 							<p>Nous offrons à nos clients une garantie d'installation de 10 ans et une garantie de service et de réparation de deux ans. Avec la plupart des entreprises, vous obtiendrez une garantie standard du fabricant sur les installations et une garantie d'un an sur les travaux d'entretien et de réparation. </p>
 							<p> Nous pensons que nos garanties nous distinguent de nos concurrents et montrent notre engagement envers un travail et un service de qualité.</p>
-							<a href="about_page.html" title="" class="lnk-default">En Savoir Plus</a>
+							<a href="about_page.php" title="" class="lnk-default">En Savoir Plus</a>
 						</div><!---qck-services end-->
 					</div>
 				</div>
